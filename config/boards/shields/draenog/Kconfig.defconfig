@@ -13,3 +13,4 @@ if SHIELD_DRAENOG_LEFT || SHIELD_DRAENOG_RIGHT
 config ZMK_SPLIT
     default y
 
+endif
