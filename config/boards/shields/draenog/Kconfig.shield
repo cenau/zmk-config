@@ -1,0 +1,8 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config SHIELD_DRAENOG_LEFT
+    def_bool $(shields_list_contains,draenog_left)
+
+config SHIELD_DRAENOG_RIGHT
+    def_bool $(shields_list_contains,draenog_right)
