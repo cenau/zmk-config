@@ -45,7 +45,7 @@ ZMK_BEHAVIOR(question_morph, mod_morph,
             bindings = <&kp ENTER>;
         };
         combo_backspace {
-            timeout-ms = <50>;
+            timeout-ms = <100>;
             key-positions = <16 17>;
             bindings = <&kp BACKSPACE>;
         };
