@@ -94,7 +94,7 @@ ZMK_BEHAVIOR(question_morph, mod_morph,
                 
                 sym_layer {
                         bindings = <
-   &none &kp PIPE &kp LBKT  &kp RBKT &kp GRAVE   &kp UNDER &kp AT &kp LA(N3) &kp HASH &kp DOLLAR
+   &none &kp PIPE &kp LBKT  &kp RBKT &kp NUBS   &kp UNDER &kp AT &kp LA(N3) &kp HASH &kp DOLLAR
    &none &kp AMPS &kp LPAR  &kp RPAR &kp TILDE   &kp MINUS &kp PLUS &kp STAR  &kp FSLH  &kp CARET
    &none &none &kp LBRC  &kp RBRC &kp BSLH    &kp LT    &kp GT   &kp EQUAL &kp PRCNT &none
                          &trans   &trans      &trans  &trans
